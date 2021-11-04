@@ -1,0 +1,7 @@
+Z:\Programozás 11\20211104\bin\Debug\20211104.exe.config
+Z:\Programozás 11\20211104\bin\Debug\20211104.exe
+Z:\Programozás 11\20211104\bin\Debug\20211104.pdb
+Z:\Programozás 11\20211104\obj\Debug\20211104.csprojAssemblyReference.cache
+Z:\Programozás 11\20211104\obj\Debug\20211104.csproj.CoreCompileInputs.cache
+Z:\Programozás 11\20211104\obj\Debug\20211104.exe
+Z:\Programozás 11\20211104\obj\Debug\20211104.pdb
